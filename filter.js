@@ -1,4 +1,4 @@
-<script>
+
 document.addEventListener('DOMContentLoaded', function () {
   // Sale elements
   const saleBedroomsDropdown = document.querySelector('#sale-beds');
@@ -403,4 +403,3 @@ document.addEventListener('DOMContentLoaded', function () {
 
   initializeRentalCollectionItems();
 });
-</script>
