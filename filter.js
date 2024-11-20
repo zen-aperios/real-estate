@@ -210,13 +210,10 @@ function applySaleFilters() {
 
   initializeSaleCollectionItems();
 });
-</script>
 
 
 
 
-
-<script>
 document.addEventListener('DOMContentLoaded', function () {
   // Rental elements
   const rentalBedroomsDropdown = document.querySelector('#rental-bed-dropdown');
